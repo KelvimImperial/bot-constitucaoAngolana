@@ -1,1 +1,1 @@
-[▶️ Assista à demonstração](assets/apresentacao.mp4)
+[▶️ Assista à demonstração](./apresentacao.mp4)
